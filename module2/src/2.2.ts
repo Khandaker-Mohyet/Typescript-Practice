@@ -1,4 +1,4 @@
-
+// interface
 {
   // object
   type User1 = {
