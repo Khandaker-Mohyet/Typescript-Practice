@@ -15,15 +15,17 @@
   const result3 = createArrayWithGenerics<User>({ id: 123, name: "Mohyet" })
   
 
-  
+  // 2nd example
 
   const createArrayWithTuple =<T,Q> (param1: T, param2:Q): [T, Q] => {
     return [param1, param2];
   };
   
   const result21 = createArrayWithTuple<number, string>(512,"Bangladesh")
-  const result22 = createArrayWithTuple<string,{name:string} >("Bangladesh",{name: "Mohyet"})
+  const result22 = createArrayWithTuple<string, { name: string }>("Bangladesh", { name: "Mohyet" })
   
+  
+  // 3rd example
 
   const addCourseToStudent = <T>(student: T) => {
     const course = "Next Level Web Development";
