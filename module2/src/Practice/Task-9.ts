@@ -18,7 +18,7 @@
   };
 
   getEmployeeCity(employee1);
-  getEmployeeCity(employee2)
+  getEmployeeCity(employee2);
 
 
 
