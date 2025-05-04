@@ -13,5 +13,3 @@ type Person = {
   MaritalStatus: boolean;
   FriendsName: string;
 }
-
-Name, Address, Hair and Eye Color, Income and Expense, Hobbies, Family Members, Job, Skills, Marital Status, and Friends

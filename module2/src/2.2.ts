@@ -12,7 +12,7 @@
   }
 
   type UserWithRole = User1 & { role: string }
-  interface UserWithRole1 extends User1 {
+  interface UserWithRole1 extends User2 {
     role: string
   }
 
