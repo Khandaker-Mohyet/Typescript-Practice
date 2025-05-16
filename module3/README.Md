@@ -1390,3 +1390,4 @@ student.testAccess(); // Output:  Accessing NID from subclass: 9876543210
 Encapsulation is a great way to **enforce consistency and integrity** in your classes. You can expose only the parts of your object that are safe to be interacted with, while hiding sensitive implementation details.
 
 ---
+Khandaker Mohyet
