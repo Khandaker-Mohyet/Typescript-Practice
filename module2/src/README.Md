@@ -1259,3 +1259,4 @@ const anyObj: Record<string, unknown> = {
 | `Record<K, T>` | Creates an object type with keys of `K` and values of `T` |
 
 ---
+Khandaker Mohyet
